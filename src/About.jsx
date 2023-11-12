@@ -1,40 +1,41 @@
 import React from 'react';
-const category=[
-       {
-           id:1,
-           cname:"MEN'S WEAR"
-       }
-       ,
-       {
-           id:2,
-           cname:"WOMEN'S WEAR"
-       }
-       ,
-       {
-           id:3,
-           cname:"SPORTS WEAR"
-       }
-       ,
-       {
-           id:4,
-           cname:"OFFICE WEAR"
-       }
-       ,
-       {
-           id:5,
-           cname:"GIRLY STYLE"
-       }
+import Product from './Product';
+// const category=[
+//        {
+//            id:1,
+//            cname:"MEN'S WEAR"
+//        }
+//        ,
+//        {
+//            id:2,
+//            cname:"WOMEN'S WEAR"
+//        }
+//        ,
+//        {
+//            id:3,
+//            cname:"SPORTS WEAR"
+//        }
+//        ,
+//        {
+//            id:4,
+//            cname:"OFFICE WEAR"
+//        }
+//        ,
+//        {
+//            id:5,
+//            cname:"GIRLY STYLE"
+//        }
    
-       ,
-       {
-           id:6,
-           cname:"BUSINESS CASUAL"
-       }
-       ,{
-           id:7,
-           cname:"PARTY WEAR"
-       }
-   ]
+//        ,
+//        {
+//            id:6,
+//            cname:"BUSINESS CASUAL"
+//        }
+//        ,{
+//            id:7,
+//            cname:"PARTY WEAR"
+//        }
+//    ]
    
 
 export default function About()
@@ -43,5 +44,6 @@ export default function About()
 
 
          <h1>This is About Page</h1>
+         <Product/>
   </div>;
 }

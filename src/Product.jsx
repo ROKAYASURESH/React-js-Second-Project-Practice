@@ -85,7 +85,7 @@ export default function Product() {
           {ProductList.map((pp)=>(
           <div className="col-lg-3">
               <img src={pp.image} className='img-fluid' />
-                <Link to= {'/details/${pp.id}'} >
+                <Link to= {`/details/${pp.id}`} >
                    <h4> {pp.pname} </h4> 
                  </Link>
                  <h5> {pp.pprice} </h5>
@@ -102,3 +102,4 @@ export default function Product() {
       </div>
   </div>;
 }
+export {ProductList}
