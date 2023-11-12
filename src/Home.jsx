@@ -62,3 +62,4 @@ export default function Home() {
         {/* <h1>This is Second Websit Of Suresh Rokaya</h1> */}
         </div>;
 }
+export{category}

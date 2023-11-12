@@ -7,7 +7,7 @@ export default function Contact()
        const btnsubmit=(q)=>{
               q.preventDefault();
               console.log("Sssssss")
-              setName("Rajesh loves me form the set of the k")
+              setName(" loves me form the set of k")
        }
 
        const btninput=(t)=>
