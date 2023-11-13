@@ -16,7 +16,7 @@ Briefly describe the purpose and goals of your project. Highlight its main featu
 - [Contributing](#contributing)
 
 ## Demo
-You can view a live demo of the project [here]().
+You can view a live demo of the project [here](https://github.com/ROKAYASURESH/React-js-Second-Project-Practice/assets/127000485/0f64e800-a718-4b0c-b180-39e9f8bcbe6c).
 ## Getting Started
 
 Provide instructions on how to set up the project locally. Include information about any prerequisites, and step-by-step instructions for installation.
